@@ -1,0 +1,70 @@
+{
+    "todolist": [
+        {
+            "idx": 0,
+            "todo": "Drink water",
+            "date": "2020.09.09",
+            "done": "unchecked"
+        },
+        {
+            "idx": 1,
+            "todo": "Make bed",
+            "date": "2020.09.09",
+            "done": "unchecked"
+        },
+        {
+            "idx": 2,
+            "todo": "Stretch",
+            "date": "2020.09.09",
+            "done": "unchecked"
+        },
+        {
+            "idx": 3,
+            "todo": "Empty dishwasher",
+            "date": "2020.09.09",
+            "done": "unchecked"
+        },
+        {
+            "idx": 4,
+            "todo": "20 Min running",
+            "date": "2020.09.09",
+            "done": "unchecked"
+        },
+        {
+            "idx": 5,
+            "todo": "Prep lunch",
+            "date": "2020.09.09",
+            "done": "unchecked"
+        },
+        {
+            "idx": 6,
+            "todo": "Water plants",
+            "date": "2020.09.09",
+            "done": "unchecked"
+        },
+        {
+            "idx": 7,
+            "todo": "Reply to emails",
+            "date": "2020.09.09",
+            "done": "unchecked"
+        },
+        {
+            "idx": 8,
+            "todo": "Grab gym bag",
+            "date": "2020.09.09",
+            "done": "unchecked"
+        },
+        {
+            "idx": 9,
+            "todo": "Read newspapers",
+            "date": "2020.09.09",
+            "done": "unchecked"
+        },
+        {
+            "idx": 10,
+            "todo": "Let dog out",
+            "date": "2020.09.09",
+            "done": "unchecked"
+        }
+    ]
+}
